@@ -68,5 +68,5 @@ animal_age_stop <- function(animal, age){
   }
 }
 
-animal_age_stop("dog", 1000) 
+animal_age_stop("dog", 100) 
 
